@@ -1,0 +1,14 @@
+#character-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+#character {
+	border: 1px solid black;
+	width: 25%;
+}
+
+#header {
+	height: 20%;
+	background-color: lightblue;
+}
